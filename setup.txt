@@ -1,3 +1,5 @@
+https://github.com/nasirjd/foodmine-course
+
 1. Creating Component
 2. Angular Router
 3. Reactive forms & http
@@ -49,3 +51,17 @@ Remove warning: set "noPropertyAccessFromIndexSignature": false, in tsconfig.jso
 
 14. Not found 
         Add to pages Home, Food and Cart 
+
+15. Connect to Backend
+        npm install typescript
+        Create tsconfig.json 
+        create .gitignore
+        create data.ts 
+        create server.ts 
+            install @typts 
+            Add Apis 
+
+        install nodemon ts-node 
+        Add urs.ts to frontend
+        Add HttpClient module 
+        Update food service 
