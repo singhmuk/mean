@@ -4,3 +4,9 @@
 4. Rxjs
 5. Json Web Token
 6. Payment gatway
+
+7. angular installation
+
+sudo npm install -g @angular/cli@
+ng new client
+ng serve --open
