@@ -29,3 +29,12 @@ npm install ng-starrating
 
 
 Remove warning: set "noPropertyAccessFromIndexSignature": false, in tsconfig.json file
+
+11. Tags bar 
+    Create tag model 
+    Add sample tags to data.ts 
+    Food service
+        Add get all tags method
+        Add get all foods by tag method
+    Add tags route
+    Show tag result in Home component
