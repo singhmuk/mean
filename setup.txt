@@ -41,3 +41,8 @@ Remove warning: set "noPropertyAccessFromIndexSignature": false, in tsconfig.jso
 
 12. Food Page 
         Add method to food service
+
+13. Cart Page 
+    Create cartItem model 
+    Create cart model
+    Generate cart service
