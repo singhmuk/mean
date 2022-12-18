@@ -1,0 +1,6 @@
+1. Creating Component
+2. Angular Router
+3. Reactive forms & http
+4. Rxjs
+5. Json Web Token
+6. Payment gatway
