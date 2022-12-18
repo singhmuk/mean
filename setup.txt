@@ -13,3 +13,11 @@
 8. Add Header
     ng g c components/partials/header
 
+9. List food
+    Create food model
+    Create data.ts
+        Add sample food 
+    
+    Create food service: ng g s services/food
+
+npm install ng-starrating
