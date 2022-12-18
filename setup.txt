@@ -6,7 +6,10 @@
 6. Payment gatway
 
 7. angular installation
+    sudo npm install -g @angular/cli@
+    ng new client
+    ng serve --open
 
-sudo npm install -g @angular/cli@
-ng new client
-ng serve --open
+8. Add Header
+    ng g c components/partials/header
+
