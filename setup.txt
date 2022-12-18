@@ -38,3 +38,6 @@ Remove warning: set "noPropertyAccessFromIndexSignature": false, in tsconfig.jso
         Add get all foods by tag method
     Add tags route
     Show tag result in Home component
+
+12. Food Page 
+        Add method to food service
