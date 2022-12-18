@@ -12,7 +12,11 @@
                         <a>Logout</a>
                     </div>
                 </li>
-                <li><a routerLink="/cart-page">Cart 3</a></li>
+                <li>
+                    <a routerLink="/cart-page">
+                      Cart <span *ngIf="cartQuantity">{{cartQuantity}}</span>
+                    </a>
+                  </li>
             </ul>
         </nav>
     </div>

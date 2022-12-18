@@ -46,3 +46,6 @@ Remove warning: set "noPropertyAccessFromIndexSignature": false, in tsconfig.jso
     Create cartItem model 
     Create cart model
     Generate cart service
+
+14. Not found 
+        Add to pages Home, Food and Cart 
