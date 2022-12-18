@@ -21,3 +21,11 @@
     Create food service: ng g s services/food
 
 npm install ng-starrating
+
+10. Search 
+    Add search method for food service 
+    Add search route 
+    Show search result in home component 
+
+
+Remove warning: set "noPropertyAccessFromIndexSignature": false, in tsconfig.json file
