@@ -65,3 +65,10 @@ Remove warning: set "noPropertyAccessFromIndexSignature": false, in tsconfig.jso
         Add urs.ts to frontend
         Add HttpClient module 
         Update food service 
+
+16. Login Page 
+        Generate Component
+        1.  Add to routes
+        2.  Add ts 
+        3.  Add html
+            1.  Import Reactive Forms Module
